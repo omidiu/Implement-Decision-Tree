@@ -6,7 +6,7 @@ This repository contains the code for the "Decision Tree Implementation From Scr
 
 ## Article
 
-You can find the full article on Medium: [Link to the Medium article](insert-medium-article-link)
+You can find the article on Medium: [Link to the Medium article](https://medium.com/@omidsaghatchian/decision-tree-implementation-from-scratch-visualization-5eb0bbf427c2)
 
 <br> 
 
